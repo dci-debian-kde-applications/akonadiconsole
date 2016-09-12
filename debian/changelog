@@ -1,0 +1,5 @@
+akonadiconsole (4:16.08.0-0neon) xenial; urgency=medium
+
+  * Initial release based on the split of kdepim
+
+ -- Raymond Wooninck <tittiatcoke@gmail.com>  Mon, 12 Sep 2016 15:25:36 +0200
