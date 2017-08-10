@@ -86,6 +86,8 @@ Package: akonadiconsole
 Section: utils
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: management and debugging console for akonadi
  Akonadi Console is a useful utility that can be used to explore or manage
  Akonadi. Since this utility exposes Akonadi internals, it is very useful for
